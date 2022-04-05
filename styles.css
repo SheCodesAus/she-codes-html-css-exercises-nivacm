@@ -1,0 +1,21 @@
+html {
+    background: #F7F7F7;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    margin: 0;
+}
+header {
+    background-color: #fff;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #E9E6E6;
+    height: 40px;
+    padding: 0 5px;
+}
+nav,
+h1 {
+    display: inline;
+}
+h1 {
+    color:  #C70039;
+}

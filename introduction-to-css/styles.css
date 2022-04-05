@@ -11,8 +11,12 @@ body {
 
 header {
     text-align: center;
-    background-color: #6b469a;
-    padding: 10px;
+    background-color: #469a7e;
+    padding: 20px;
+    margin: 20px;
+    border-width: 5px;
+    border-style: dotted;
+    border-color:black;
 }
 
 h1 {
@@ -31,6 +35,7 @@ nav {
     margin: 10px;
     padding: 10px;
     background-color: #999999;
+    width: 200px;
 }
 
 a {
@@ -38,6 +43,10 @@ a {
     text-decoration: none;
     padding: 5px;
 }
+nav a{
+    display: inline;
+}
+
 
 a:hover {
     color: #fda103;
@@ -63,4 +72,14 @@ footer {
     color: #fff;
 }
 
-/* Your code here */
+nav{margin-top:  50px;
+    padding:50 px;
+    background-color: #999999 ;
+    width:300px;
+}
+
+#homepage-image{
+    width: 300px;
+    height:200px;
+    border:3px dashed black;
+}

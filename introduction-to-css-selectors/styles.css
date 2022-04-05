@@ -1,0 +1,27 @@
+body{ background-color: rgb(149, 149, 229);
+}
+div{
+    background-color: rgb(46, 187, 41);
+}
+.list-item {
+    background-color: red;
+}
+.main-heading {
+    background-color: aqua;
+
+}
+#first-paragraph {
+    background-color: goldenrod;
+}
+.first-two {
+    background-color: mediumpurple;
+}
+.last {
+    background-color: gold;
+}
+#second-paragraph {
+    background-color: blue;
+}
+nav a{
+    display: inline;
+}
